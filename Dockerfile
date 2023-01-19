@@ -1,4 +1,4 @@
-ROM node:7
+ROM node:18
 WORKDIR /app
 COPY package.json /app
 RUN npm install
